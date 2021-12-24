@@ -4,3 +4,5 @@ git
 github
 maven
 ansible
+putty
+docker
